@@ -1,11 +1,26 @@
 {
-  "posts": [
+  "burgers": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Бургер 1",
+      "price": 250
+    },
+    {
+      "id": 2,
+      "name": "Бургер 2",
+      "price": 300
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "drinks": [
+    {
+      "id": 1,
+      "name": "Кока-Кола",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Сок",
+      "price": 120
+    }
+  ]
 }
