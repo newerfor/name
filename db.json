@@ -2,13 +2,15 @@
   "burgers": [
     {
       "id": 1,
-      "name": "Бургер 1",
-      "price": 250
+      "image":"https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs",
+      "name": "Шефбургер оригинальный",
+      "price": 139
     },
     {
       "id": 2,
-      "name": "Бургер 2",
-      "price": 300
+        "image":"https://s82079.cdn.ngenix.net/330x0/ogrwiqu9hes6hq5jjoml86cmvhz5",
+      "name": "Мексиканский бургер",
+      "price": 274
     }
   ],
   "drinks": [
