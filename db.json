@@ -30,13 +30,13 @@
   "hotdogs": [
     {
       "id": 1,
-      "image": "https://example.com/hotdog1.jpg",
+      "image": "https://avatars.mds.yandex.net/i?id=54273edb4603b9559ae780c8dfcd4c013c3ee967-7763258-images-thumbs&n=13",
       "name": "Классический хот-дог",
       "price": 150
     },
     {
       "id": 2,
-      "image": "https://example.com/hotdog2.jpg",
+      "image": "https://static.tildacdn.com/tild6261-6330-4138-b866-313335353265/MacCheese4834.jpg",
       "name": "Хот-дог с сыром",
       "price": 180
     }
