@@ -2,13 +2,13 @@
   "burgers": [
     {
       "id": 1,
-      "image":"https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs",
+      "image": "https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs",
       "name": "Шефбургер оригинальный",
       "price": 139
     },
     {
       "id": 2,
-        "image":"https://s82079.cdn.ngenix.net/330x0/ogrwiqu9hes6hq5jjoml86cmvhz5",
+      "image": "https://s82079.cdn.ngenix.net/330x0/ogrwiqu9hes6hq5jjoml86cmvhz5",
       "name": "Мексиканский бургер",
       "price": 274
     }
@@ -16,15 +16,29 @@
   "snacks": [
     {
       "id": 1,
-      "image":"https://avatars.mds.yandex.net/i?id=05d7038e75d713547daee5bfd68d3bf91dfb27b9-8210406-images-thumbs&n=13",
+      "image": "https://avatars.mds.yandex.net/i?id=05d7038e75d713547daee5bfd68d3bf91dfb27b9-8210406-images-thumbs&n=13",
       "name": "Картофель-фри",
       "price": 100
     },
     {
       "id": 2,
-      "image":"https://avatars.mds.yandex.net/i?id=05d7038e75d713547daee5bfd68d3bf91dfb27b9-8210406-images-thumbs&n=13",
+      "image": "https://avatars.mds.yandex.net/i?id=05d7038e75d713547daee5bfd68d3bf91dfb27b9-8210406-images-thumbs&n=13",
       "name": "Нагетсы",
       "price": 120
+    }
+  ],
+  "hotdogs": [
+    {
+      "id": 1,
+      "image": "https://example.com/hotdog1.jpg",
+      "name": "Классический хот-дог",
+      "price": 150
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/hotdog2.jpg",
+      "name": "Хот-дог с сыром",
+      "price": 180
     }
   ]
 }
