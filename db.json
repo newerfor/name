@@ -32,4 +32,13 @@
       "id": 1,
       "image": "https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs",
       "name": "Классический хот-дог",
-      "price": 
+      "price": 150
+    },
+    {
+      "id": 2,
+      "image": "https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs",
+      "name": "Хот-дог с сыром",
+      "price": 180
+    }
+  ]
+}
