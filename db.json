@@ -1,44 +1,38 @@
 {
-  "burgers": [
-    {
+  "burgers": {
+    "Шефбургер оригинальный": {
       "id": 1,
-      "image": "https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs",
-      "name": "Шефбургер оригинальный",
-      "price": 139
+      "price": 139,
+      "image": "https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs"
     },
-    {
+    "Мексиканский бургер": {
       "id": 2,
-      "image": "https://s82079.cdn.ngenix.net/330x0/ogrwiqu9hes6hq5jjoml86cmvhz5",
-      "name": "Мексиканский бургер",
-      "price": 274
+      "price": 274,
+      "image": "https://s82079.cdn.ngenix.net/330x0/ogrwiqu9hes6hq5jjoml86cmvhz5"
     }
-  ],
-  "snacks": [
-    {
+  },
+  "snacks": {
+    "Картофель-фри": {
       "id": 1,
-      "image": "https://avatars.mds.yandex.net/i?id=05d7038e75d713547daee5bfd68d3bf91dfb27b9-8210406-images-thumbs&n=13",
-      "name": "Картофель-фри",
-      "price": 100
+      "price": 100,
+      "image": "https://avatars.mds.yandex.net/i?id=05d7038e75d713547daee5bfd68d3bf91dfb27b9-8210406-images-thumbs&n=13"
     },
-    {
+    "Нагетсы": {
       "id": 2,
-      "image": "https://avatars.mds.yandex.net/i?id=05d7038e75d713547daee5bfd68d3bf91dfb27b9-8210406-images-thumbs&n=13",
-      "name": "Нагетсы",
-      "price": 120
+      "price": 120,
+      "image": "https://avatars.mds.yandex.net/i?id=05d7038e75d713547daee5bfd68d3bf91dfb27b9-8210406-images-thumbs&n=13"
     }
-  ],
-  "hotdogs": [
-    {
+  },
+  "hotdogs": {
+    "Классический хот-дог": {
       "id": 1,
-      "image": "https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs",
-      "name": "Классический хот-дог",
-      "price": 150
+      "price": 150,
+      "image": "https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs"
     },
-    {
+    "Хот-дог с сыром": {
       "id": 2,
-      "image": "https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs",
-      "name": "Хот-дог с сыром",
-      "price": 180
+      "price": 180,
+      "image": "https://s82079.cdn.ngenix.net/330x0/iaikboggdeck4r9pd64vchw0tmbs"
     }
-  ]
+  }
 }
